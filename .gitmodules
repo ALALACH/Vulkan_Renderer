@@ -1,0 +1,12 @@
+[submodule "vulkan/Dependency/imgui"]
+	path = vulkan/Dependency/imgui
+	url = https://github.com/ALALACH/Imgui_Premake
+[submodule "vulkan/Dependency/spdlog"]
+	path = vulkan/Dependency/spdlog
+	url = https://github.com/ALALACH/Spdlog_
+[submodule "vulkan/Dependency/glfw"]
+	path = vulkan/Dependency/glfw
+	url = https://github.com/ALALACH/glfw_premake
+[submodule "vulkan/Dependency/glm"]
+	path = vulkan/Dependency/glm
+	url = https://github.com/ALALACH/glm
